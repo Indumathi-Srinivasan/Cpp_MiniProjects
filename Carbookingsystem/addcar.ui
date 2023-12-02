@@ -293,7 +293,7 @@ color:white;</string>
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>../../Users/vikram/OneDrive/Desktop/mahindra-scorpio.jpg</pixmap>
+    <pixmap>image/mahindra-scorpio.jpg</pixmap>
    </property>
   </widget>
   <zorder>label</zorder>
