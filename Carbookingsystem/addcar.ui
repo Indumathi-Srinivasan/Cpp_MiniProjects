@@ -283,10 +283,10 @@ color:white;</string>
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>-170</x>
-     <y>0</y>
-     <width>1151</width>
-     <height>621</height>
+     <x>-190</x>
+     <y>-10</y>
+     <width>1231</width>
+     <height>701</height>
     </rect>
    </property>
    <property name="text">
