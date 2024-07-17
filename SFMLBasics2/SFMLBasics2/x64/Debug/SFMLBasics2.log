@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics2\SFMLBasics2\main.cpp(26,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics2\SFMLBasics2\main.cpp(26,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLBasics2.vcxproj -> C:\QTProjects\Cpp_MiniProjects\SFMLBasics2\x64\Debug\SFMLBasics2.exe
+  C:\libraries\SFML-2.5.1\bin\openal32.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-audio-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-audio-d-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-graphics-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-graphics-d-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-network-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-network-d-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-system-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-system-d-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-window-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-window-d-2.dll
+  11 File(s) copied

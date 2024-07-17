@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(30,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(31,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(31,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(44,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(44,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(94,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(95,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(102,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(103,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\main.cpp(103,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SFMLBasics4.vcxproj -> C:\QTProjects\Cpp_MiniProjects\SFMLBasics4\SFMLBasics4\x64\Debug\SFMLBasics4.exe
+  C:\libraries\SFML-2.5.1\bin\openal32.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-audio-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-audio-d-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-graphics-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-graphics-d-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-network-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-network-d-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-system-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-system-d-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-window-2.dll
+  C:\libraries\SFML-2.5.1\bin\sfml-window-d-2.dll
+  11 File(s) copied
